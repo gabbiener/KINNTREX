@@ -1,2 +1,2 @@
-# Physical-Inspired-NN
-This repository will contain most of my code about physical-informed NN
+# KINNTREX - Kinetically Inspired Neural Network for Time Resolved X-ray Imaging
+This repository contains the latest code for the KINNTREX software
