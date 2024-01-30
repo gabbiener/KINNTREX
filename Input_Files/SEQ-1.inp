@@ -1,0 +1,29 @@
+21
+1.0E-6   'DATA_S02/FAKE1.hkl'  1.00    <= factor to vary photoinitiation
+1.8E-6   'DATA_S02/FAKE2.hkl'  1.00    <= main level of photo initation given below
+3.2E-6   'DATA_S02/FAKE3.hkl'  1.00
+5.6E-6   'DATA_S02/FAKE4.hkl'  1.00
+10.0E-6  'DATA_S02/FAKE5.hkl'  1.00
+18.0E-6  'DATA_S02/FAKE6.hkl'  1.00 
+32.0E-6  'DATA_S02/FAKE7.hkl'  1.00
+56.0E-6  'DATA_S02/FAKE8.hkl'  1.00
+100.0E-6 'DATA_S02/FAKE9.hkl'  1.00
+180.0E-6 'DATA_S02/FAKE10.hkl' 1.00
+320.0E-6 'DATA_S02/FAKE11.hkl' 1.00
+560.0E-6 'DATA_S02/FAKE12.hkl' 1.00
+1.0E-3   'DATA_S02/FAKE13.hkl' 1.00
+1.8E-3   'DATA_S02/FAKE14.hkl' 1.00
+3.2E-3   'DATA_S02/FAKE15.hkl' 1.00
+5.6E-3   'DATA_S02/FAKE16.hkl' 1.00
+10.0E-3  'DATA_S02/FAKE17.hkl' 1.00
+18.0E-3  'DATA_S02/FAKE18.hkl' 1.00
+32.0E-3  'DATA_S02/FAKE19.hkl' 1.00
+56.0E-3  'DATA_S02/FAKE20.hkl' 1.00
+100.0E-3 'DATA_S02/FAKE21.hkl' 1.00
+'../DARK_WITH_SIGMA/2PHY_now.phs'
+'../DARK_WITH_SIGMA/pyp_5dk_sm6.hkl'
+'../INTERM/3pyp.phs'
+'../INTERM/2pyr_now.phs'
+'../INTERM/2ms.phs'
+3 0.2            <=  sigma random error, main level of photoinitiation
+40000.0 0.0 1000 0.0 100.0 <= rates 1/s
